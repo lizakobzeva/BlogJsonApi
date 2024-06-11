@@ -5,275 +5,53 @@
       "password": "$2a$10$E5Tlqq3/k3E74ayXS6p3JOEZMB3BjFHVE.0w5Hgfgki2n/xX2RlRq",
       "name": "lizakobzeva",
       "id": "RYI6LFU",
-      "likedPosts": ["2", "33", "32", "31", "34", "21", "38"]
+      "likedPosts": [
+        "33",
+        "32",
+        "31",
+        "34",
+        "21",
+        "38",
+        "1",
+        "3"
+      ]
     },
     {
       "email": "a@a",
       "password": "$2a$10$V0OZ.Kso3mfzNR/ZKCzs8.arXEOMq14ybBTvr.ZOwcM8dMaC3qNEu",
       "name": "qqw r d wwq r d",
-      "likedPosts": ["", "37", "35"],
+      "likedPosts": [
+        "",
+        "37",
+        "35"
+      ],
       "id": "cuuy3ze"
     }
   ],
   "posts": [
     {
       "userId": "RYI6LFU",
-      "title": "ghfghjcghjc",
-      "text": "eszrdxfgchvj",
-      "imageUrl": "https://wallpapers.com/images/hd/weird-cat-pictures-ckawnv8idb967wr7.jpg",
-      "id": "dafdasdf"
+      "title": "Сижу на лекции от сбера",
+      "text": "Лекция про будущее it, искусственный интеллект и прочее...",
+      "imageUrl": "https://www.funnyart.club/uploads/posts/2022-12/1672091795_www-funnyart-club-p-prikolnie-koti-kartinki-10.jpg",
+      "id": "1",
+      "date": "1.5.24"
     },
     {
       "userId": "RYI6LFU",
-      "title": "sdfasdfcxvs",
-      "text": "fdsfasdfdscxzvdsffasd",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/2248/0831/files/cat-meme-20.png?14190142732694678529",
-      "id": "dfadsddf"
+      "title": "Два милых кота",
+      "text": "Сижу в ците, учу программирование.",
+      "imageUrl": "http://tapeciarnia.pl/tapety/normalne/130115_dwa_kotki_skrzynia.jpg",
+      "id": "2",
+      "date": "11.5.24"
     },
     {
       "userId": "RYI6LFU",
-      "title": "cxvasgdsacv",
-      "text": "wzseddsfdsf",
-      "imageUrl": "https://wallpapers.com/images/hd/weird-cat-pictures-ckawnv8idb967wr7.jpg",
-      "id": 2
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "zdfgdz",
-      "text": "zsxc jhmbn",
-      "imageUrl": "https://wallpapers.com/images/hd/cute-funny-cat-pictures-8buws2lhzecgkeyw.jpg",
-      "id": 4
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "asdfasdf",
-      "text": "asdfasdfdscxvzds",
-      "imageUrl": "https://i.pinimg.com/736x/7c/42/e6/7c42e64dc49af2fbfafd1c2d9586bddb.jpg",
-      "id": 5
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "dfasdfcxvzcxvds",
-      "text": "fsdadsfasdfadsfasdfasdfczcxva",
-      "imageUrl": "https://i.pinimg.com/736x/28/6f/06/286f06017a23012901d41f0a8bd627f1.jpg",
-      "id": 6
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "fvzfgasdfxvkldshofihnkvskn",
-      "text": "sdfg hjkmjbgrddDfgDFgs",
-      "imageUrl": "https://i.pinimg.com/originals/01/e5/62/01e56244fcd9d6604da9e32d1432a333.jpg",
-      "id": 7
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "dfasdfkndslkf",
-      "text": "fdgdfkgjasndkfndkjvksd",
-      "imageUrl": "https://i.pinimg.com/originals/34/3d/32/343d329f6ce51bbbc96a32f7d966da6d.jpg",
-      "id": 8
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "asdfasdf",
-      "text": "fasdfasdfa",
-      "imageUrl": "https://i.pinimg.com/originals/8b/43/b7/8b43b7915957df45c2d936ec1d39a69f.jpg",
-      "id": 9
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "asdfasdfaf",
-      "text": "dfasdfasdfa",
-      "imageUrl": "https://i.pinimg.com/originals/21/7a/02/217a027d0fa652a3c447aa91318c3e28.jpg",
-      "id": 10
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "sdcxdghgf",
-      "text": "ezsrxdtfyg uhiojok",
-      "imageUrl": "https://i.pinimg.com/originals/92/0d/aa/920daa245e38f41d00efd5dcb212cda2.jpg",
-      "id": 11
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "cytuivhyojlb;kn",
-      "text": "cygvuhk jlk;l",
-      "imageUrl": "https://i.ytimg.com/vi/FoK7X7sgj1U/maxresdefault.jpg",
-      "id": 12
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "zfvzbfd",
-      "text": "drf hvbj,jcbn",
-      "imageUrl": "https://wallpapers.com/images/hd/funny-cat-friends-taking-picture-pnpc5983h1l6avo9.jpg",
-      "id": 13
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "dsfasdfa",
-      "text": "foknfakdsnf;a",
-      "imageUrl": "asdfadfs",
-      "id": 14
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "rtrexd",
-      "text": "wzestdr tfugyiijopko[pl]\\",
-      "imageUrl": "",
-      "id": 15
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "asdfadsfa",
-      "text": "dsfadsfasdfasd",
-      "imageUrl": "https://funnymodo.com/wp-content/uploads/2016/09/1475258300_maxresdefault.jpg",
-      "id": 16
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "dksjfksd",
-      "text": "gugkgljghjkghjj",
-      "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article5830761.ece/ALTERNATES/s1227b/PAY-A-cat-with-an-unusually-long-tongue.jpg",
-      "id": 17
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "fadsfas",
-      "text": "cvaedfadsfad",
-      "imageUrl": "https://i.pinimg.com/originals/6c/32/5f/6c325f2b317e6cc7504f1c3f2e4c511b.jpg",
-      "id": 18
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "dsfasdfasdf",
-      "text": "dsgzdfgsdgzsdfgz",
-      "imageUrl": "const posts = useSelector(getPostsSelector)",
-      "id": 19
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "asdfadsfa",
-      "text": "asdfadsfafsdf",
-      "imageUrl": "https://i.ytimg.com/vi/yDN45YzCohs/maxresdefault.jpg",
-      "id": 20
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "dfgfdgsgdf",
-      "text": "dfgfgdsfgdfg",
-      "imageUrl": "https://i.ytimg.com/vi/yDN45YzCohs/maxresdefault.jpg",
-      "id": 21
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "adsfadsf",
-      "text": "asdfasdfsdf",
-      "imageUrl": "https://i.ytimg.com/vi/yDN45YzCohs/maxresdefault.jpg",
-      "id": 22
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "dfgsdfg",
-      "text": "gadfgafdsgad",
-      "imageUrl": "https://i.ytimg.com/vi/yDN45YzCohs/maxresdefault.jpg",
-      "id": 23
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "fdsasdf",
-      "text": "fasdfads",
-      "imageUrl": "https://i.pinimg.com/originals/5b/b5/74/5bb574ea405b62f27e070898c53d9260.jpg",
-      "id": 24
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "fgdfsgdf",
-      "text": "sdzfhadfgfdbzdf",
-      "imageUrl": "https://i.pinimg.com/originals/5b/b5/74/5bb574ea405b62f27e070898c53d9260.jpg",
-      "id": 25
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "dfasdfasdf",
-      "text": "thsdjgksdligha[ijklgdjfkljkljljkljkljjjjjjjjjjjjjjjjjjjjjjjjjjjfgfdadfgffgfgsdfgsfdgsdfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
-      "imageUrl": "https://wallpapers.com/images/hd/cute-funny-cat-pictures-3xag3nhxq5k7hiva.jpg",
-      "id": 26
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "sdfgsdfgsdfg",
-      "text": "gsdfgdfgsdfgsdfg",
-      "imageUrl": "https://i.ytimg.com/vi/YSHDBB6id4A/maxresdefault.jpg",
-      "id": 27
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "dfadsfadsf",
-      "text": "sdjfklndslflaknsdkfbasldfds",
-      "imageUrl": "https://i.pinimg.com/originals/c6/9b/da/c69bda3105c87973d8ed2ee9040d1cd8.png",
-      "id": 28
-    },
-    {
-      "title": "dfadsfadsf",
-      "text": "dafdsfasdfjkadjf",
-      "imageUrl": "https://i.pinimg.com/originals/f7/20/e5/f720e51b63db6a1634e5c3454f23d8d6.jpg",
-      "id": 29
-    },
-    {
-      "title": "fasdfasdfadsfadsfadsf",
-      "text": "adsffdasidflsdbjjbjabsv;cjbv;basd;jfbsdkjbfk;jsdbf;kasjdbf;kjasdbfkjbdsbjf;sdjkfbakjsbdfjdbsfjbs;dkfjb;aksdjbfkjsdbf;skdjbf;askjdbf;askdjfba;skdjbf;asdkjfbsk;djbfewhihrioehrllnfjdfioahsdfiherlnelnljewjlrbuidhfpiadfdffdfskljklfdsa",
-      "imageUrl": "https://pic.rutubelist.ru/video/9b/fe/9bfe57644761a34c1444cb0dd4e79094.jpg",
-      "id": 30
-    },
-    {
-      "title": "fasdfasdf",
-      "text": "dfasdfasdf",
-      "imageUrl": "https://i.pinimg.com/originals/e3/eb/77/e3eb77eb588bf83bf24ce46fb3bb6f84.png",
-      "id": 31
-    },
-    {
-      "title": "dfasdfasd",
-      "text": "dfasdfasdfas",
-      "imageUrl": "https://w.forfun.com/fetch/38/386d6485e7ec5b3c08af2639cb750914.jpeg",
-      "id": 32
-    },
-    {
-      "title": "asdfasdfasdff",
-      "text": "sdfasdfasdf",
-      "imageUrl": "https://i.pinimg.com/736x/fe/69/94/fe6994c00a671200d1533deebeea9381.jpg",
-      "id": 33
-    },
-    {
-      "title": "dfaksdfbsdlfblasdffffffffffffffffffffffffffffffffffffffffffffffff",
-      "text": "dfasdfasdfhjvb;asdojfbdj",
-      "imageUrl": "https://i.pinimg.com/originals/a5/0c/e1/a50ce19cc1905395cbd8d98ba39397a1.jpg",
-      "id": 34
-    },
-    {
-      "title": "Какое-то название поста",
-      "text": "Первый осмысленный текст на этом сайте) Просто потрясающе. Наконец то дождались чего-то вменяемого а не очередного fjdashsdjf;ajklsdjfajjjkldskjlad.",
-      "imageUrl": "https://i.pinimg.com/originals/2f/7c/14/2f7c14beb92c6525a864e7c5a788c8d2.jpg",
-      "id": 35
-    },
-    {
-      "userId": "cuuy3ze",
-      "title": "ASDFHSA DFBLJSDBF;H JIHEHHDdklsnfalsd",
-      "text": "fsdfasdfnjlbcvjkb;OSDJFDBJKD",
-      "imageUrl": "https://webpulse.imgsmail.ru/imgpreview?mb=webpulse&key=pulse_cabinet-image-cab2f4c4-4158-4e29-8ac2-53d7d27313d1",
-      "id": "36"
-    },
-    {
-      "userId": "cuuy3ze",
-      "title": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
-      "text": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
-      "imageUrl": "https://funik.ru/wp-content/uploads/2020/10/8169b37958199faa606d-1.jpg",
-      "id": "37"
-    },
-    {
-      "userId": "RYI6LFU",
-      "title": "woofwoofwoof",
-      "text": "ksdhfrjnklvj;hkls pppppppppppppppppppppppppppppppppppp",
-      "imageUrl": "https://img.goodfon.ru/original/3456x2304/5/e3/doberman-roza-krasnaia-romantika-doberman-with-a-rose-is-lis.jpg",
-      "id": "38"
+      "title": "Думаю о смысле бытия",
+      "text": "С точки зрения банальной эрудиции, каждый пpоизвольно выбpанный пpедикативно абсоpбиpующий обьект pациональной мистической индукции можно дискpетно детеpминиpовать с аппликацией ситуационной паpадигмы коммуникативно-функционального типа пpи наличии детектоpно-аpхаического дистpибутивного обpаза в Гилбеpтовом конвеpгенционном пpостpанстве, однако пpи паpаллельном колабоpационном анализе спектpогpафичеких множеств, изомоpфно pелятивных к мультиполосным гипеpболическим паpаболоидам, интеpпpетиpующим антpопоцентpический многочлен Hео-Лагpанжа, возникает позиционный сигнификатизм гентильной теоpии психоанализа, в pезультате чего надо пpинять во внимание следующее: поскольку не только эзотеpический, но и экзистенциальный аппеpцепциониpованный энтpополог антецедентно пассивизиpованный высокоматеpиальной субстанцией, обладает пpизматической идиосинхpацией, но так как валентностный фактоp отpицателен, то и, соответственно, антагонистический дискpедитизм дегpадиpует в эксгибиционном напpавлении, поскольку, находясь в пpепубеpтатном состоянии, пpактически каждый субьект, меланхолически осознавая эмбpиональную клаустоpофобию, может экстpаполиpовать любой пpоцесс интегpации и диффеpенциации в обоих напpавлениях, отсюда следует, что в pезультате синхpонизации, огpаниченной минимально допустимой интеpполяцией обpаза, все методы конвеpгенционной концепции тpебуют пpактически тpадиционных тpансфоpмаций неоколониализма. ",
+      "imageUrl": "https://www.funnyart.club/uploads/posts/2022-10/1666383184_5-www-funnyart-club-p-grustnie-kotiki-kartinki-krasivo-5.jpg",
+      "id": "3",
+      "date": " 11.5.24"
     }
   ]
 }
